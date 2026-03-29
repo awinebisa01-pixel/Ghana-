@@ -56,9 +56,4 @@
   <!-- Buy Button -->
   <button class="buy" onclick="buyCoins()">Buy Now</button>
 
-</div>
 
-<script src="script.js"></script>
-
-</body>
-</html>
